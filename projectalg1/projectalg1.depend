@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652598538 source:c:\users\mahdi\documents\apeaksoft studio\snapshot\projectalg1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<limits>
+
+1655061123 source:c:\users\mahdi\desktop\cpp\projectalg1\main.cpp
+	<iostream>
+	<time.h>
+

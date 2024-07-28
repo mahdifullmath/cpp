@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642506822 source:c:\users\mahdi\desktop\cpp\project_mar_ami_pish\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+

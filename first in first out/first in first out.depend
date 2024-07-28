@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666777640 source:c:\users\mahdi\desktop\cpp\first in first out\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+

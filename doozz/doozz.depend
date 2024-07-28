@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644500404 source:c:\users\mahdi\documents\apeaksoft studio\snapshot\doozz\main.c
+	<stdio.h>
+	<time.h>
+

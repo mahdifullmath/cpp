@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653827435 source:c:\users\mahdi\desktop\cpp\mabna_b\main.cpp
+	<iostream>
+	<math.h>
+

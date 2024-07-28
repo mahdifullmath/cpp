@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702671365 source:c:\users\mahdi\desktop\cpp\infix to postfix\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

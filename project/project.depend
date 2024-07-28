@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623496456 source:c:\users\mahdi\desktop\cpp\project\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+

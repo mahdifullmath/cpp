@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620076664 source:c:\users\mahdi\desktop\cpp\polinomial2\main.cpp
+	<iostream>
+	<math.h>
+

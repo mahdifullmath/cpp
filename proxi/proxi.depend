@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653830024 source:c:\users\mahdi\desktop\cpp\proxi\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

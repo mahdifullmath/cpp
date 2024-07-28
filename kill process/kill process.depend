@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666595080 source:c:\users\mahdi\desktop\cpp\kill process\main.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+

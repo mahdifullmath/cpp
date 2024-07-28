@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638283083 source:c:\users\mahdi\desktop\cpp\majid_i_to_p\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705841455 source:c:\users\mahdi\desktop\project\tsp_sa_hoosh\main.cpp
+	<iostream>
+	<time.h>
+	<algorithm>
+	<random>
+
